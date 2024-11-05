@@ -8,4 +8,4 @@ Sonra kopyaladığımız məlumatları .js formatında olan fayla daxil edərək
 
 Sonra selenium_browser_with_cookies.py faylında həmin .js formatında olan faylı seçirik və proqramı işə salırıq.
 
-Vizual olaraq fərqi görkəm üçün ilk olaraq cookie məlumatları import edilmədən https://instagram.com/ web saytı açılacaq sonra import edilərək. 
+Vizual olaraq fərqi görmək üçün ilk olaraq cookie məlumatları import edilmədən https://instagram.com/ web saytı açılacaq sonra import edilərək. 
